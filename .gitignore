@@ -64,3 +64,5 @@ next-env.d.ts
 
 # Yeoman meta-data
 .yo-rc.json
+
+*storybook.log
