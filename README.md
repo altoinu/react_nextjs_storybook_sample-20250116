@@ -1,6 +1,6 @@
-# base_react_nextjs_project-20241220
+# react_nextjs_storybook_sample-20250116
 
-Sample basic React Next.js project setup with some dev dependencies
+Storybook setup for React/Next.js project.
 
 This project does some API calls. Run this back end API server for it to work: [altoinu/base_nodejs_express_project-20241224](https://github.com/altoinu/base_nodejs_express_project-20241224).
 

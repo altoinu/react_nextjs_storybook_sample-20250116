@@ -1,7 +1,7 @@
 {
-  "name": "base_react_nextjs_project-20241220",
+  "name": "react_nextjs_storybook_sample-20250116",
   "version": "0.1.0",
-  "description": "Sample basic React Next.js project setup with some dev dependencies",
+  "description": "Storybook setup for React/Next.js project",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/altoinu/base_react_nextjs_project-20241220.git"
+    "url": "git+https://github.com/altoinu/react_nextjs_storybook_sample-20250116.git"
   },
   "author": "Kaoru Kawashima",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/altoinu/base_react_nextjs_project-20241220/issues"
+    "url": "https://github.com/altoinu/react_nextjs_storybook_sample-20250116/issues"
   },
-  "homepage": "https://github.com/altoinu/base_react_nextjs_project-20241220#readme",
+  "homepage": "https://github.com/altoinu/react_nextjs_storybook_sample-20250116#readme",
   "dependencies": {
     "next": "15.1.2",
     "react": "^19.0.0",
